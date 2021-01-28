@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "https://github.com/HowProgrammingWorks/Index",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albert-Y-Luppol/node.git"
+  },
+  "author": "Albert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Albert-Y-Luppol/node/issues"
+  },
+  "homepage": "https://github.com/Albert-Y-Luppol/node#readme",
+  "dev-dependencies": {
+    "eslint": "^7.18.0"
+  }
+}
